@@ -1,4 +1,7 @@
-qkqwdkqwdkqwdk	w
-qwdqwqwwdqdwdq
-qfqwwqqwqwf
-qwfqwfqwfqqw
+#include <iostream>
+
+
+ina main()
+{
+std::cout << "hello";
+}
